@@ -1,0 +1,13 @@
+wdVGR    entramos la clave posterioremente introducido
+        git config --global user.name "rymoweb"
+        git config --global user.email "rymoweb@gmail.com"
+        VAMOS A GITHUB
+           ---
+        DESPUES DE GITHUB:
+           git config --global user.user rymoweb
+           git config --global user.token  numero de token
+
+
+2-GITHUB:
+  Creamos cuenta en GITHUB y luego en settings ---> SSH keys ponemos la clave
+  que se encuentra 
